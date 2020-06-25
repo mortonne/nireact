@@ -4,7 +4,7 @@ import unittest
 
 import numpy as np
 
-from mistr import task, rsa
+from nireact import task, rsa
 
 
 class VectorTestCase(unittest.TestCase):
