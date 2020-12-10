@@ -1,4 +1,5 @@
-# nireact
+# Nireact
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4313980.svg)](https://doi.org/10.5281/zenodo.4313980)
 
 Using modeling to relate neuroimaging measures to reaction time data.
 
