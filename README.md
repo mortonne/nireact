@@ -8,7 +8,7 @@ This project contains code used to run analyses and create plots and statistics 
 Morton NW, Schlichting ML, Preston AR. 2020. 
 Representations of common event structure in medial temporal lobe and frontoparietal cortex support efficient inference. Proceedings of the National Academy of Sciences. 
 117(47): 29338-29345. 
-[10.1073/pnas.1912338117](https://doi.org/10.1073/pnas.1912338117).
+[doi:10.1073/pnas.1912338117](https://doi.org/10.1073/pnas.1912338117).
 
 Nireact uses [PsiReact](https://github.com/mortonne/psireact), which provides general tools for modeling response time data.
 
