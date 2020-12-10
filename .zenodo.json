@@ -1,0 +1,15 @@
+{
+    "title": "Representations of common event structure in medial temporal lobe and frontoparietal cortex support efficient inference",
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "upload_type": "software",
+    "creators": [
+        {
+            "name": "Neal W Morton",
+            "affiliation": "The University of Texas at Austin",
+            "orcid": "0000-0002-2631-2710"
+        }
+    ],
+    "access_right": "open"
+}
