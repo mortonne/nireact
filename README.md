@@ -10,6 +10,8 @@ Representations of common event structure in medial temporal lobe and frontopari
 117(47): 29338-29345. 
 [10.1073/pnas.1912338117](https://doi.org/10.1073/pnas.1912338117).
 
+Nireact uses [PsiReact](https://github.com/mortonne/psireact), which provides general tools for modeling response time data.
+
 ## Installation
 
 First, install swig. You can do this using Miniconda:
